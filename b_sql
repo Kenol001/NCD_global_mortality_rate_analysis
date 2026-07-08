@@ -1,0 +1,10 @@
+#SQL
+
+This folder contains the SQL component of the project, including the scripts used to explore and analyze the dataset, as well as the corresponding query outputs.
+
+## Contents
+
+scripts– SQL scripts for data exploration, aggregation, and analytical queries.
+outputs– Results generated from executing the SQL scripts, demonstrating key findings and query outputs.
+
+The SQL analysis focuses on summarizing global NCD mortality rates, identifying trends, and comparing mortality across countries, regions, and time.
