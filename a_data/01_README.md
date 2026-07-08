@@ -10,7 +10,9 @@ This folder contains the dataset used for the **NCD Global Mortality Rate Analys
  
  Format: Excel.
  
- Coverage: Global country-level mortality data
+ Coverage: Global country-level mortality data.
+
+ Data preview link
 
 The dataset was used for data cleaning in Excel, exploratory analysis in SQL, statistical analysis and visualization in R, and dashboard development in Power BI.
 
