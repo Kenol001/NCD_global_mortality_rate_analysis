@@ -5,3 +5,7 @@ Data quality checks confirmed that the dataset is complete, with no missing valu
 Additional validation found no duplicate records or invalid mortality values, indicating that the data is consistent and reliable.
 These checks provide confidence that the subsequent Excel, SQL, R, and Power BI analyses are based on clean, high-quality data.
 
+Data Quality Check Table.
+
+![Data Quality Check](./b_excel/2_Data_quality_check.png)
+
