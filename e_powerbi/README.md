@@ -1,1 +1,1 @@
-
+Dashboard Snippet: This screenshot provides a preview of the interactive Power BI dashboard developed for the project. The dashboard enables users to explore global age-standardized NCD mortality data through dynamic filtering, geographic visualization, and country-level comparisons, supporting efficient analysis of mortality patterns across WHO regions.
