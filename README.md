@@ -7,7 +7,7 @@ This project analyzes global age-standardized non-communicable disease (NCD) mor
 
  Key Visualization
 
-The chart below illustrates the overall trend in age-standardized NCD mortality rates (per 100,000 population) over the study period, providing a high-level overview of the project's primary analytical findings.
+The chart below illustrates the overall global trend in age-standardized NCD mortality rates (per 100,000 population) over the study period, providing a high-level overview of the project's primary analytical findings.
 ![Trend Analysis](d_r_scripts_results/02_trend_analysis.PNG)
 
 
