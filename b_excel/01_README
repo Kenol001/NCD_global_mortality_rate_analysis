@@ -1,10 +1,10 @@
-### Data Quality Check
+Description
 
-The dataset was validated to ensure it was suitable for analysis. 
-Data quality checks confirmed that the dataset is complete, with no missing values in the key fields used throughout the project. 
-Additional validation found no duplicate records or invalid mortality values, indicating that the data is consistent and reliable.
-These checks provide confidence that the subsequent Excel, SQL, R, and Power BI analyses are based on clean, high-quality data.
+Summarizes the results of the data quality assessment by checking dataset completeness, consistency, duplicate records, and key descriptive metrics to ensure the data is suitable for analysis.
 
-Data Quality Check Table.
 
-![Data Quality Check](./b_excel/02_data_quality_check.PNG)
+
+Findings
+
+The quality assessment indicates that the dataset is complete and free from major data quality issues, providing a reliable foundation for subsequent analysis and visualization.
+
