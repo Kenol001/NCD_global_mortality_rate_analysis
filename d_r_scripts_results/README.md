@@ -1,7 +1,10 @@
 
+Script 1: Summary statistics.
 Description
 
 Summarizes the structure and distribution of the dataset variables to assess data completeness and understand the characteristics of the mortality rate before conducting further statistical analyses.
+
+![Descriptive Statistics](01_descriptive_statistics.PNG)
 
 Findings
 
@@ -12,6 +15,8 @@ Description
 
 Calculates the annual average age-standardized NCD mortality rate and visualizes how it changes over time using a line chart.
 
+![Descriptive Statistics](01_descriptive_statistics.PNG)
+
 Findings
 
 The visualization shows a consistent decline in average NCD mortality rates across the study period, highlighting changes in mortality patterns over time.
@@ -20,6 +25,8 @@ Script 3: ANOVA and Tukey HSD Test
 Description
 
 Performs a one-way ANOVA to assess differences in average NCD mortality rates across WHO regions, followed by a Tukey HSD post-hoc test to identify which regional pairs differ significantly.
+
+![ANOVA Results](03_anova_results.PNG)
 
 Findings
 
