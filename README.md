@@ -1,4 +1,4 @@
-# NCD_global_mortality_rate_analysis
+
 # NCD Global Mortality Rate Analysis
 
 ## Overview
