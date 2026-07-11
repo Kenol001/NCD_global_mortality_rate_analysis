@@ -46,6 +46,71 @@ Tools Used
 
   LICENSE
 
+## 🚀 How to Use
+
+### Prerequisites
+
+Install the following software before running the project:
+
+- **Microsoft Excel 2019** (or later)
+- **DBeaver Community Edition**
+- **MySQL Server**
+- **R (version 4.0 or later)**
+- **RStudio**
+- **Power BI Desktop**
+
+Dataset
+
+1. Download the dataset from the source referenced in the **a_data** folder.
+2. Save the dataset locally before beginning the analysis.
+
+ Excel Analysis
+
+1. Open the dataset in Microsoft Excel.
+2. Perform data cleaning and quality assessment following the documentation in the **b_excel** folder.
+3. Save the cleaned dataset for use in SQL, R, and Power BI.
+
+ SQL Analysis
+
+1. Open DBeaver and connect to your MySQL database.
+2. Create a new database (if required).
+3. Import the cleaned Excel dataset into MySQL using DBeaver:
+   - Right-click the database.
+   - Select **Import Data**.
+   - Choose the cleaned dataset.
+   - Complete the import wizard.
+4.Locate your dataset by navigating to your connection → database → tables. Right click your table the click read data in sql console delete the query in console.
+5. Execute the SQL scripts in the **c_sql_queries** folder.
+6. Compare your outputs with the examples in **c_sql_queries_results**.
+
+R Analysis
+
+1. Open the project in RStudio.
+2. Install the required package (if not already installed):
+
+r
+install.packages("tidyverse")
+
+
+3. Load the required library:
+
+r
+library(tidyverse)
+
+
+4. Import the cleaned dataset into R.
+5. Run the scripts in the **d_r_scripts** folder in numerical order.
+6. Compare your outputs with the visualizations in **d_r_scripts_results**.
+
+ Power BI Dashboard
+
+1. Open Power BI Desktop.
+2. Import the cleaned dataset.
+3. Recreate the visuals using the documentation provided in the **e_powerbi** folder.
+4. Use filters and slicers to explore mortality trends across regions and time periods.
+
+Note: If you encounter any challenges installing or configuring the required tools (Excel, MySQL, DBeaver, R, RStudio, or Power BI), refer to the official documentation, online tutorials, or ChatGPT for step-by-step guidance before running the analysis.
+
  Key Insights
 
 - NCD mortality rates exhibit distinct regional patterns across WHO regions.
