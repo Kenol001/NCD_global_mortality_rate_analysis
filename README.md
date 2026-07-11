@@ -34,30 +34,42 @@ Tools Used
 
 Repository Structure
 
-  a_data/
+  a_data
+  
       01_README.md                       # Dataset overview and data preview
+      
       02_data_preview.PNG
 
   b_excel/
+  
       01_README.md                       # Excel data cleaning and quality assessment
+      
       02_data_quality_check.PNG
 
   c_sql_queries/
+  
       SQL scripts                        # Data exploration and analysis queries
 
   c_sql_queries_results/
+  
       Query result images
+      
       README.md                          # SQL query descriptions, outputs, and findings
 
   d_r_scripts/
+  
       R scripts                          # Statistical analysis and visualization scripts
 
   d_r_scripts_results/
+  
       Output visualizations
+      
       README.md                          # R script descriptions, outputs, and findings
 
   e_powerbi/
+  
       Dashboard images
+      
       README.md                          # Dashboard overview and insights
 
   .gitignore
