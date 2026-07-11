@@ -5,6 +5,11 @@ Overview
 
 This project analyzes global age-standardized non-communicable disease (NCD) mortality rates using WHO data. It demonstrates an end-to-end healthcare data analytics workflow, including data cleaning, SQL analysis, statistical visualization, and interactive dashboard development.
 
+ Key Visualization
+
+The chart below illustrates the overall trend in age-standardized NCD mortality rates (per 100,000 population) over the study period, providing a high-level overview of the project's primary analytical findings.
+
+
 Objectives
 
 * Clean and prepare the dataset.
