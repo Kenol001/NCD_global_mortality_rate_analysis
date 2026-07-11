@@ -1,7 +1,7 @@
-summary(NCD_global_mortality_rate$Value)
+
 ggplot(NCD_global_mortality_rate,
        aes(x = ParentLocation,
-           y = `Mortality Rate`,
+           y = `Dim1`,
            fill = ParentLocation)) +
   geom_boxplot() +
   labs(
