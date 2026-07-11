@@ -66,9 +66,10 @@ Repository Structure
 
  Key Insights
 
-* Mortality rates vary across countries and WHO regions.
-* Trends differ over time, highlighting regional health disparities.
-* Interactive dashboards enable comparisons by country, region, sex, and year.
+- NCD mortality rates exhibit distinct regional patterns across WHO regions.
+- Mortality trends vary over time, highlighting changes in the global burden of non-communicable diseases.
+- Statistical analysis identified significant differences in mortality rates between regions.
+- SQL analysis identified countries with mortality rates exceeding their respective regional averages, supporting targeted regional comparisons.
 
 Skills Demonstrated
 
