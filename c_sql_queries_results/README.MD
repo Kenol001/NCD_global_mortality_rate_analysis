@@ -1,3 +1,6 @@
+SQL Query Results
+
+This file outputs generated from the SQL queries performed during the analysis. The results provide insights into the structure of the dataset, regional patterns in age-standardized NCD mortality rates, and countries with mortality rates exceeding their respective regional averages. Each result is accompanied by a brief description and key findings to support interpretation.
 Query 1: Data Preview
 
 ![Data Preview](01_data_preview.PNG)
