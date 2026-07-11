@@ -15,7 +15,7 @@ Description
 
 Calculates the annual average age-standardized NCD mortality rate and visualizes how it changes over time using a line chart.
 
-![Descriptive Statistics](01_descriptive_statistics.PNG)
+![Trend Analysis](02_trend_analysis.PNG)
 
 Findings
 
@@ -32,11 +32,3 @@ Findings
 
 The analysis found statistically significant differences in mortality rates between WHO regions. The Tukey HSD test further identified the specific regional comparisons responsible for these differences.
 
-Script 4: Linear Trend in Average NCD Mortality Rate
-Description
-
-Fits a linear regression model to evaluate the overall trend in average age-standardized NCD mortality rates over time and visualizes the fitted trend line.
-
-Findings
-
-The regression line indicates a clear downward trend in average NCD mortality rates over the study period, suggesting a gradual reduction in mortality over time.
