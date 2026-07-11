@@ -8,6 +8,7 @@ This project analyzes global age-standardized non-communicable disease (NCD) mor
  Key Visualization
 
 The chart below illustrates the overall trend in age-standardized NCD mortality rates (per 100,000 population) over the study period, providing a high-level overview of the project's primary analytical findings.
+![Trend Analysis](d_r_scripts_results/02_trend_analysis.PNG)
 
 
 Objectives
@@ -33,35 +34,35 @@ Tools Used
 
 Repository Structure
 
-a_data/
-    01_README.md                       # Dataset overview and data preview
-    02_data_preview.PNG
+  a_data/
+      01_README.md                       # Dataset overview and data preview
+      02_data_preview.PNG
 
-b_excel/
-    01_README.md                       # Excel data cleaning and quality assessment
-    02_data_quality_check.PNG
+  b_excel/
+      01_README.md                       # Excel data cleaning and quality assessment
+      02_data_quality_check.PNG
 
-c_sql_queries/
-    SQL scripts                        # Data exploration and analysis queries
+  c_sql_queries/
+      SQL scripts                        # Data exploration and analysis queries
 
-c_sql_queries_results/
-    Query result images
-    README.md                          # SQL query descriptions, outputs, and findings
+  c_sql_queries_results/
+      Query result images
+      README.md                          # SQL query descriptions, outputs, and findings
 
-d_r_scripts/
-    R scripts                          # Statistical analysis and visualization scripts
+  d_r_scripts/
+      R scripts                          # Statistical analysis and visualization scripts
 
-d_r_scripts_results/
-    Output visualizations
-    README.md                          # R script descriptions, outputs, and findings
+  d_r_scripts_results/
+      Output visualizations
+      README.md                          # R script descriptions, outputs, and findings
 
-e_powerbi/
-    Dashboard images
-    README.md                          # Dashboard overview and insights
+  e_powerbi/
+      Dashboard images
+      README.md                          # Dashboard overview and insights
 
-.gitignore
+  .gitignore
 
-LICENSE
+  LICENSE
 
  Key Insights
 
