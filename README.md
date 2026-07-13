@@ -61,8 +61,15 @@ Install the following software before running the project:
 
 Dataset
 
-1. Download the dataset from the source referenced in the **a_data** folder.
-2. Save the dataset locally before beginning the analysis.
+Downloading the WHO Dataset
+Open the WHO dataset using the link provided in [a_data](./a_data/).
+Select the Data tab.
+Scroll to the EXPORT DATA in CSV format section on the right-hand side of the page.
+Click Right-click here & Save link andopen in new tab.
+Save the file with the .csv extension to your preferred location.
+Import the downloaded CSV file into Excel, DBeaver, R, or Power BI to reproduce the analyses in this repository.
+
+Note: The Visualizations and Metadata tabs are provided by WHO for reference. To download the dataset used in this project, use the Data tab and the Right-click here & Save link option under Export Data in CSV format
 
  Excel Analysis
 
